@@ -1,3 +1,0 @@
-subject1 for branch
-i like maths.
-now i am learning git.
